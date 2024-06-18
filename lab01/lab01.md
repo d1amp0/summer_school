@@ -118,8 +118,8 @@
 
 #### Вопросы
 1. Сколько HTTP GET запросов было отправлено вашим браузером? На какие интернет-адреса были отправлены эти GET-запросы?
-   - 4
-   - http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file4.html и /pearson.png, /8E_cover__small.jpg, /roots/dstrootcax3.p7c
+   - 3
+   - http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file4.html и /pearson.png, /8E_cover__small.jpg
 2. Можете ли вы сказать, загрузил ли ваш браузер два изображения последовательно или
    они были загружены с веб-сайтов параллельно? Объясните.
    - Они загрузились последователно, потому что сами запросы были последовательны, что видно из картинки
