@@ -62,7 +62,12 @@
 запросы и ответы со стороны сервиса для **всех** его операций.
 
 #### Демонстрация работы
-todo
+![image](https://github.com/d1amp0/summer_school/assets/118923542/7cd64022-588b-4d76-9e1a-10c9a2a2fcd8)
+![image](https://github.com/d1amp0/summer_school/assets/118923542/c556f752-f456-47d5-8983-deb5e6f9546e)
+![image](https://github.com/d1amp0/summer_school/assets/118923542/87d3405f-b0ac-4417-ac56-dd1733ea516e)
+![image](https://github.com/d1amp0/summer_school/assets/118923542/e8dc3b2e-30f4-4727-a9d8-0a34043f43ab)
+![image](https://github.com/d1amp0/summer_school/assets/118923542/e9d49584-9782-420b-8eb7-5d83b2924275)
+
 
 ### Задание В (4 балла)
 Пусть ваш продукт также имеет иконку (небольшую картинку). Формат иконки (картинки) может
