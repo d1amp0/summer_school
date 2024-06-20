@@ -89,7 +89,11 @@
 ```
 
 #### Демонстрация работы
-todo
+![image](https://github.com/d1amp0/summer_school/assets/118923542/eaab66d8-1a81-48d2-aef6-96f73d5a391f)
+![image](https://github.com/d1amp0/summer_school/assets/118923542/bdb10a02-7ff0-438c-93aa-0b269e4a1d52)
+![image](https://github.com/d1amp0/summer_school/assets/118923542/fb8ca779-9e38-4b5b-a59b-96b20e65958c)
+![image](https://github.com/d1amp0/summer_school/assets/118923542/fbeeffc7-41b2-4edf-b399-495cf9276964)
+
 
 ---
 
